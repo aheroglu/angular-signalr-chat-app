@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "gbzzUTPaP9TiHAB/tPUJOcJKyHeqefdCXJbVHhMRth0=",
+  "Source": "ChatAppServer.WebAPI",
+  "BasePath": "_content/ChatAppServer.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ChatAppServer.WebAPI\\wwwroot",
+      "Source": "ChatAppServer.WebAPI",
+      "ContentRoot": "C:\\Users\\ahmet\\Desktop\\ChatApp\\ChatAppServer\\ChatAppServer.WebAPI\\wwwroot\\",
+      "BasePath": "_content/ChatAppServer.WebAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ahmet\\Desktop\\ChatApp\\ChatAppServer\\ChatAppServer.WebAPI\\wwwroot\\avatar\\0c592835-c01f-4097-b2df-eb926e927070.png",
+      "SourceId": "ChatAppServer.WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ahmet\\Desktop\\ChatApp\\ChatAppServer\\ChatAppServer.WebAPI\\wwwroot\\",
+      "BasePath": "_content/ChatAppServer.WebAPI",
+      "RelativePath": "avatar/0c592835-c01f-4097-b2df-eb926e927070.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\avatar\\0c592835-c01f-4097-b2df-eb926e927070.png"
+    },
+    {
+      "Identity": "C:\\Users\\ahmet\\Desktop\\ChatApp\\ChatAppServer\\ChatAppServer.WebAPI\\wwwroot\\avatar\\23589686-ba13-473e-ad33-3b0c89b93bef.png",
+      "SourceId": "ChatAppServer.WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ahmet\\Desktop\\ChatApp\\ChatAppServer\\ChatAppServer.WebAPI\\wwwroot\\",
+      "BasePath": "_content/ChatAppServer.WebAPI",
+      "RelativePath": "avatar/23589686-ba13-473e-ad33-3b0c89b93bef.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\avatar\\23589686-ba13-473e-ad33-3b0c89b93bef.png"
+    },
+    {
+      "Identity": "C:\\Users\\ahmet\\Desktop\\ChatApp\\ChatAppServer\\ChatAppServer.WebAPI\\wwwroot\\avatar\\e5139bcb-39e6-40cd-bb46-45b27387496f.png",
+      "SourceId": "ChatAppServer.WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ahmet\\Desktop\\ChatApp\\ChatAppServer\\ChatAppServer.WebAPI\\wwwroot\\",
+      "BasePath": "_content/ChatAppServer.WebAPI",
+      "RelativePath": "avatar/e5139bcb-39e6-40cd-bb46-45b27387496f.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\avatar\\e5139bcb-39e6-40cd-bb46-45b27387496f.png"
+    }
+  ]
+}
